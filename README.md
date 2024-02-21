@@ -9,6 +9,10 @@ This is a simple blog website with light and dark mode toggle functionality, mad
 - Display of blog posts with images and tags.
 - Audio feedback on mode switch.
 
+## Demo
+
+https://debraj-dey.github.io/Blogs-Wesbite/ 
+
 ## Screenshots
 
 ![LightMode](https://github.com/Debraj-Dey/Blogs-Wesbite/assets/115916671/19eef66a-ef97-40dc-9099-a756213afbef)
